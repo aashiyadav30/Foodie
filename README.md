@@ -5,7 +5,7 @@ Here's your corrected and polished **README.md** file:
 # **🍽️ AashiYadav30-Foodie**  
 _A simple and interactive online food ordering platform_  
 
-[Foodie Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ffo0die%2F&psig=AOvVaw1FTHhHv8kJln0wFAICG0l_&ust=1738731849941000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICz2oSfqYsDFQAAAAAdAAAAABAE)
+[have a look](https://foodiespot.netlify.app/)
 
 ---
 
