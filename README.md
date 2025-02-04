@@ -1,22 +1,16 @@
--WIP
-
-## Description:
-- Head to `home.html` file to access to whole project .
-
+Here's your corrected and polished **README.md** file:  
 
 ---
 
-### **🍽️ AashiYadav30-Foodie**  
+# **🍽️ AashiYadav30-Foodie**  
 _A simple and interactive online food ordering platform_  
 
-![Foodie Banner]([https://via.placeholder.com/800x300.png?text=Foodie+Website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ffo0die%2F&psig=AOvVaw1FTHhHv8kJln0wFAICG0l_&ust=1738731849941000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICz2oSfqYsDFQAAAAAdAAAAABAE)) *(Replace with an actual banner image if available)*  
+![Foodie Banner]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ffo0die%2F&psig=AOvVaw1FTHhHv8kJln0wFAICG0l_&ust=1738731849941000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICz2oSfqYsDFQAAAAAdAAAAABAE))  
 
 ---
 
-## **📌 Overview**  
-AashiYadav30-Foodie is an online food ordering website where users can explore various cuisines, add items to their cart, and proceed with secure payments.  
-
-**Main File:** `home.html` (Start here!)  
+## **📌 Description**  
+Head to `home.html` to access the entire project.  
 
 ---
 
@@ -50,7 +44,7 @@ aashiyadav30-foodie/
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/aashiyadav30-foodie.git
+git clone https://github.com/aashiyadav30/aashiyadav30-foodie.git
 cd aashiyadav30-foodie
 ```
 
@@ -74,7 +68,8 @@ cd aashiyadav30-foodie
 ## **📧 Contact**  
 For any queries or contributions, feel free to reach out!  
 
-📩 Email: bt23ece049@iiitn.ac.in 
-🔗 GitHub: [Your GitHub Profile]([https://github.com/your-username](https://github.com/aashiyadav30))  
+📩 Email: bt23ece049@iiitn.ac.in  
+🔗 GitHub: [aashiyadav30](https://github.com/aashiyadav30)  
 
 ---
+
