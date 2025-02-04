@@ -1,8 +1,8 @@
-Here's your corrected and polished **README.md** file:  
+
 
 ---
 
-# **🍽️ AashiYadav30-Foodie**  
+# **🍽️ AashiYadav30-Foodiee**  
 _A simple and interactive online food ordering platform_  
 
 [have a look](https://foodiespot.netlify.app/)
